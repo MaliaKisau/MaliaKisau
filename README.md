@@ -24,4 +24,4 @@
 
 💬 Let's Connect!
 
-Lets inspire, innovate, and make a difference together! Feel free to connect with me via [LinkedIn](https://de.linkedin.com/in/malia_mumo_kisau_3400b11a2).
+Lets inspire, innovate, and make a difference together! Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/malia-mumo-kisau-3400b11a2/).
