@@ -4,7 +4,9 @@
 🌈Hi there , I'm Malia Mumo Kisau💕!
 
 👩🏾‍💻 About me:
-  I'm an upcoming full stack devolper passionate about leveraging cutting-edge technologies to build innovative solutions that make a real impact. With a blend of creativity and technical expertise, I thrive on the challenge of turning ideas into reality and creating solutions that drive positive change.
+  I'm an upcoming full stack web developer with a keen eye for AI specialization. In today's rapidly changing world, the field of artificial intelligence fascinates me tremendously. I'm passionate about leveraging AI cutting-edge technologies to create innovative solutions that not only meeet the needs of today but also anticipate the challenges of tomorrow. 
+
+  From crafting intuitive user interfaces to diving deep into the intricates of machine learning alogarithms, I'm committed to pushing the boundaries of what's possible and making a meaningfulimpact in the digital landscape. 
 
 🌱 Currently Learning
 - Python 🐍
@@ -16,6 +18,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/MaliaKisau?style=social)
 
 💡 Technologies
+
+  ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   
   Tools
 
@@ -24,4 +29,6 @@
 
 💬 Let's Connect!
 
-Lets inspire, innovate, and make a difference together! Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/malia-mumo-kisau-3400b11a2/).
+Lets inspire, innovate, and make a difference together! 
+Whether ypu're intrested in disscussing the latest advancements in AI or colaborating on a web development project...
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/malia-mumo-kisau-3400b11a2/).
