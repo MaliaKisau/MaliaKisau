@@ -21,6 +21,9 @@
 
   ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&loo=css3)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+  
   
   Tools
 
@@ -29,6 +32,6 @@
 
 💬 Let's Connect!
 
-Lets inspire, innovate, and make a difference together! 
+Let's Do This !
 Whether ypu're intrested in disscussing the latest advancements in AI or colaborating on a web development project...
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/malia-mumo-kisau-3400b11a2/).
