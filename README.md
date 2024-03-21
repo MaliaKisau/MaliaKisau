@@ -36,4 +36,4 @@ Let's Do This !
 Whether ypu're intrested in disscussing the latest advancements in AI or colaborating on a web development project...
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/malia-mumo-kisau-3400b11a2/).
 
-
+![Snake animation](https://github.com/MaliaKisau/MaliaKisau/blob/output/github-contribution-grid-snake.svg)
